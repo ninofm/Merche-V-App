@@ -13,8 +13,8 @@ Al descargar, instalar o usar esta aplicación, confirmas que has leído, compre
     El desarrollador retiene todos los derechos de propiedad sobre la aplicación.
 
 Para obtener más detalles, revisa el archivo [EULA.txt] incluido en este repositorio.
-Descarga
 
+Descarga
 Para descargar la última versión de Merche V, visita la sección Releases y instala el APK directamente.
 Contacto
 
